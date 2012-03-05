@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Milestone Step1, Issue #1" );
+        System.out.println( "Milestone Step1, Issue #2" );
     }
 }
